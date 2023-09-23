@@ -158,3 +158,58 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+SF/4.1. Принципы ООП в Python и отладка кода.ipynb
+SF/4.2. Как выгружать данные из файлов разных форматов.ipynb
+SF/4.3. Как получать данные из веб-источников и API.ipynb
+SF/5. Визуализация данных.ipynb
+SF/6. Очистка данных.ipynb
+SF/Bank exited.ipynb
+SF/citibike.ipynb
+SF/movielens.ipynb
+SF/new_menu_good.xml
+SF/new_menu.xml
+SF/qwests.ipynb
+SF/recipes.csv
+SF/stud.ipynb
+SF/ufo.ipynb
+SF/Базовые приёмы работы с данными в Pandas.ipynb
+SF/введение в пандас.ipynb
+SF/Диабет.ipynb
+SF/интернет-магазин.ipynb
+SF/продвинутые методы Pandas.ipynb
+SF/DATA/churn.csv
+SF/DATA/citibike-tripdata.csv
+SF/DATA/countries.csv
+SF/DATA/countries.txt
+SF/DATA/country_vaccinations.csv
+SF/DATA/covid_data.csv
+SF/DATA/diabetes_data.csv
+SF/DATA/ErrorEnCoding.csv
+SF/DATA/melb_data_fe.csv
+SF/DATA/melb_data_ps.csv
+SF/DATA/melb_data.csv
+SF/DATA/menu.xml
+SF/DATA/new_recipes.json
+SF/DATA/orders.csv
+SF/DATA/out.zip
+SF/DATA/products.csv
+SF/DATA/recipes.json
+SF/DATA/sber_data.csv
+SF/DATA/students_performance.csv
+SF/DATA/students_performance.zip
+SF/DATA/MovieLens/dates.csv
+SF/DATA/MovieLens/movies.csv
+SF/DATA/MovieLens/ratings_movies.csv
+SF/DATA/MovieLens/ratings1.csv
+SF/DATA/MovieLens/ratings2.csv
+SF/archive/23-09-20.pkl
+SF/plotly/scatter_3d.html
+SF/plotly/vaccinations.html
+DataCleaningProject/data_cleaning_example.ipynb
+DataCleaningProject/data/sber_data.csv
+DataCleaningProject/images/boxplot.png
+DataCleaningProject/images/data_cleaning.png
+DataCleaningProject/images/example_outliers.png
+DataCleaningProject/images/method_sigm.png
+DataCleaningProject/outliers_lib/find_outliers.py
+DataCleaningProject/outliers_lib/README.md
